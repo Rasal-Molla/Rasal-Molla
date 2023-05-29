@@ -58,3 +58,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasal-molla" alt="rasal-molla" /></a> </p>
 
 ![GitHub metrics](https://metrics.lecoq.io/Rasal-Molla)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imhayatunnabi)
