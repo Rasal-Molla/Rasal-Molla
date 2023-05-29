@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasel Molla</h1>
 <h3 align="center">A Passionate Web Application Developer From Dhaka, Bangladesh</h3>
 
-- 🔭 I’m currently working on ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Ajax]([https://img.shields.io/badge/ajax-%23323330.svg?style=for-the-badge&logo=ajax&logoColor=%23F7DF1E](https://img.shields.io/badge/10-Ajax-green))
+- 🔭 I’m currently working on ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Ajax]([https://img.shields.io/badge/ajax-%23323330.svg?style=for-the-badge&logo=ajax&logoColor=%23F7DF1E])
 - 🌱 I’m currently learning and working **Frontend Development with ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) and Backend Development with** ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 - 👯 I’m looking to collaborate on **Backend Development with** ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) and Frontend Development with ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
