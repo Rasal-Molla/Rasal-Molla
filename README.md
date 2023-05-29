@@ -53,7 +53,7 @@
 
 <h2>Status <img src = "https://cdn.dribbble.com/users/304485/screenshots/3301972/media/d82e503513ffaed91794ad86c01cd38d.gif" width = 32px></h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasal-Molla)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasal-Molla&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasal-Molla&show_icons=true&count_private=true)
 
@@ -64,4 +64,4 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Rasal-Molla) 
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imhayatunnabi) -->
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rasal-molla) -->
