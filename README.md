@@ -49,6 +49,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasal-molla&show_icons=true&locale=en&layout=compact" alt="rasal-molla" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasal-molla&show_icons=true&locale=en" alt="rasal-molla" /></p>
-
