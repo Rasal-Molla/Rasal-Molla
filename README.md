@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rasal Molla</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+- 🔭 I’m currently working on [Belmoor Limited](https://belmoor.kodeeo.xyz/)
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+- 🌱 I’m currently learning **PHP, Laravel & VueJs**
 
-- 🔭 I’m currently working on this page. 
+- 👨‍💻 All of my projects are available at [https://github.com/Rasal-Molla](https://github.com/Rasal-Molla)
+
+- 💬 Ask me about **Software & Web Development**
+
+- 📫 How to reach me **rasalmolla159401@gmail.com**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rasal-Molla)  
@@ -28,16 +31,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasal-molla&label=Profile%20views&color=0e75b6&style=flat" alt="rasal-molla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasal-molla" alt="rasal-molla" /></a> </p>
-
-- 🔭 I’m currently working on [Belmoor Limited](https://belmoor.kodeeo.xyz/)
-
-- 🌱 I’m currently learning **PHP, Laravel & VueJs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rasal-Molla](https://github.com/Rasal-Molla)
-
-- 💬 Ask me about **Software & Web Development**
-
-- 📫 How to reach me **rasalmolla159401@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
