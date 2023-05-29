@@ -36,11 +36,10 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rasal-Molla)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasal-molla" alt="rasal-molla" /></a> </p>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rasal-Molla)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Rasal-Molla)  
   
-  
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasal-molla" alt="rasal-molla" /></a> </p>
+ 
