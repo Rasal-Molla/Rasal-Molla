@@ -52,4 +52,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasal-molla&show_icons=true&locale=en" alt="rasal-molla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasal-molla&" alt="rasal-molla" /></p>
