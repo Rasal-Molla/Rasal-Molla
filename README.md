@@ -18,8 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rasal-Molla](https://github.com/Rasal-Molla)
 - 📫 How to reach me **rasalmolla159401@gmail.com**
--⚡ Fun fact **I am Funny**
-
+- ⚡ Fun fact **I am Funny**
 ![Profile views](https://gpvc.arturio.dev/Rasal-Molla)
 
 <h3 align="left">Connect with me:</h3>
