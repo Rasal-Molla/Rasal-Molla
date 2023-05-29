@@ -38,8 +38,7 @@
 ![GitHub metrics](https://metrics.lecoq.io/Rasal-Molla)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rasal-Molla)  
-
-![Profile views](https://gpvc.arturio.dev/Rasal-Molla)  
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasal-molla&label=Profile%20views&color=0e75b6&style=flat" alt="rasal-molla" /> </p>
 
