@@ -55,7 +55,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasal-Molla&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasal-Molla&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasal-Molla&theme=tokyonight&show_icons=true&count_private=true)
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rasal-Molla)
