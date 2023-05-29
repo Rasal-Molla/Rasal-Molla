@@ -64,11 +64,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasal-molla&theme=tokyonight" alt="rasal-molla" /></a> </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rasal-Molla&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![TopContributedRepo](https://github-contributor-stats.vercel.app/api?username=Rasal-Molla&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ![GitHub metrics](https://metrics.lecoq.io/Rasal-Molla) 
 
