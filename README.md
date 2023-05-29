@@ -41,7 +41,6 @@
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rasal-Molla)  
   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasal-molla&label=Profile%20views&color=0e75b6&style=flat" alt="rasal-molla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasal-molla" alt="rasal-molla" /></a> </p>
 
