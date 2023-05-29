@@ -71,6 +71,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![GitHub metrics](https://metrics.lecoq.io/Rasal-Molla) 
+<!-- ![GitHub metrics](https://metrics.lecoq.io/Rasal-Molla) --> 
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rasal-molla) -->
