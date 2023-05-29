@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
+<h1 align="center">Hi 👋, I'm Rasal Molla</h1>
+<h3 align="center">A passionate backend developer from Bangladesh</h3>
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
@@ -24,9 +24,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rasal-Molla)  
 
 ![Profile views](https://gpvc.arturio.dev/Rasal-Molla)  
-
-<h1 align="center">Hi 👋, I'm Rasal Molla</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasal-molla&label=Profile%20views&color=0e75b6&style=flat" alt="rasal-molla" /> </p>
 
