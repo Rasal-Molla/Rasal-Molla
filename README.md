@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **rasalmolla159401@gmail.com**
 
+![Profile views](https://gpvc.arturio.dev/Rasal-Molla)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
