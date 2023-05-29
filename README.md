@@ -23,6 +23,7 @@
 <a href="https://instagram.com/raselahmed456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raselahmed456" height="30" width="40" /></a>
 <a href="https://discord.gg/#6848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6848" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21980693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21980693" height="30" width="40" /></a>
+<a href="https://www.frontendmentor.io/profile/Rasal-Molla" target="blank"><img align="center" src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="Rasal-Molla" height="30" width="130" /></a>
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
