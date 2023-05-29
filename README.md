@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Rasel Molla</h1>
 <h3 align="center">A Passionate Web Application Developer From Dhaka, Bangladesh</h3>
 
