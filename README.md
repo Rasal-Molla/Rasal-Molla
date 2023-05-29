@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rasal Molla</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
+![I am GitHub](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 - 🔭 I’m currently working on [Belmoor Limited](https://belmoor.kodeeo.xyz/)
 
