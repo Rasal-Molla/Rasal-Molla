@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://media3.giphy.com/media/LYBHgc2yiO07G3dkkQ/giphy.gif?cid=ecf05e47nvdaau0vi4cdcd8h4mc754esuqe8jxxalb7nxgw5&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media3.giphy.com/media/LYBHgc2yiO07G3dkkQ/giphy.gif?cid=ecf05e47nvdaau0vi4cdcd8h4mc754esuqe8jxxalb7nxgw5&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Rasel Molla</h1>
