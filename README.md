@@ -37,8 +37,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rasal-Molla)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Rasal-Molla)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Rasal-Molla)  
+  
   
 
 
