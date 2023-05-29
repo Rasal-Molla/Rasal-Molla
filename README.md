@@ -58,7 +58,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasal-Molla&theme=tokyonight&show_icons=true&count_private=true)
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Rasal-Molla)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rasal-Molla&theme=tokyonight)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasal-molla" alt="rasal-molla" /></a> </p>
 
