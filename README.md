@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media3.giphy.com/media/LYBHgc2yiO07G3dkkQ/giphy.gif?cid=ecf05e47nvdaau0vi4cdcd8h4mc754esuqe8jxxalb7nxgw5&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
-</div>
+</div> -->
 
 <h1 align="center">Hi 👋, I'm Rasel Molla</h1>
 <h3 align="center">A Passionate Web Application Developer From Dhaka, Bangladesh</h3>
