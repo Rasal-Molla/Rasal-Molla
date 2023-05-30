@@ -3,6 +3,8 @@
   <img src="https://media3.giphy.com/media/LYBHgc2yiO07G3dkkQ/giphy.gif?cid=ecf05e47nvdaau0vi4cdcd8h4mc754esuqe8jxxalb7nxgw5&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
+<a href="https://app.daily.dev/Rasal_Molla"><img src="https://api.daily.dev/devcards/410f4158305645da97fdf3ac06fdca50.png?r=cgx" width="400" alt="Rasal Molla's Dev Card"/></a>
+
 <h1 align="center">Hi 👋, I'm Rasel Molla</h1>
 <h3 align="center">A Passionate Web Application Developer From Dhaka, Bangladesh</h3>
 
