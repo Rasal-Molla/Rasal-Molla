@@ -28,6 +28,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Rasal-Molla)
 
+<h2> Browsers <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="center">
     <a href="https://r.daily.dev/chrome">
     <img src="https://img.shields.io/badge/%20-Chrome-red?logo=google-chrome&logoColor=white" alt="Download for Chrome" />
