@@ -44,7 +44,7 @@
     </a>
 </p>
 
-<h3 align="left">Connect with me:<img src = "https://cdn.dribbble.com/users/304485/screenshots/3301972/media/d82e503513ffaed91794ad86c01cd38d.gif" width = 33px></h3>
+<h3 align="left">Connect With Me <img src = "https://cdn.dribbble.com/users/304485/screenshots/3301972/media/d82e503513ffaed91794ad86c01cd38d.gif" width = 33px></h3>
 <p align="center">
 <a href="https://linkedin.com/in/rasel-ahmed-696642219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasel-ahmed-696642219" height="30" width="40" /></a>
 <a href="https://fb.com/raselahmed1830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raselahmed1830" height="30" width="40" /></a>
