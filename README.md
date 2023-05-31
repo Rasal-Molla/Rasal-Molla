@@ -1,5 +1,8 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
+<p align="center">
+  <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+</p>
 <!--
 <div id="header" align="center">
   <a href="https://app.daily.dev/Rasal_Molla"><img src="https://api.daily.dev/devcards/410f4158305645da97fdf3ac06fdca50.png?r=cgx" width="350" alt="Rasal Molla's   Dev Card"/></a>
