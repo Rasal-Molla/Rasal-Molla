@@ -1,6 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <p align="center">
+<a href="https://laravel.com" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AVue.js_Logo_2.svg&psig=AOvVaw2Nx2X7zAfaP3S_IML2FYd2&ust=1685728095738000&source=images&cd=vfe&ved=0CBEQjRxqGAoTCOj0ktHQov8CFQAAAAAdAAAAABDvAQ" width="400" alt="Laravel Logo"></a>
 <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel    Logo"></a>
 </p>
 <!--
