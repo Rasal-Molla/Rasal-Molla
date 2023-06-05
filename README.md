@@ -31,8 +31,8 @@
 - 📫 How to reach me **rasalmolla159401@gmail.com**
 - ⚡ Fun fact **"I am Funny"**
 
-<img src="https://komarev.com/ghpvc/?username=Rasal-Molla&label=Profile%20views&color=0e75b6&style=flat" alt="Rasal-Molla" />
-<!-- ![Profile views](https://gpvc.arturio.dev/Rasal-Molla) -->
+<!-- <img src="https://komarev.com/ghpvc/?username=Rasal-Molla&label=Profile%20views&color=0e75b6&style=flat" alt="Rasal-Molla" /> -->
+![Profile views](https://gpvc.arturio.dev/Rasal-Molla)
 
 <h2> Browsers <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="center">
