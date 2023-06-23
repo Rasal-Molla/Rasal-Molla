@@ -4,15 +4,15 @@
 <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel    Logo"></a>
 </p>-->
 
-
+<!--
 <div id="header" align="center">
   <a href="https://app.daily.dev/Rasal_Molla"><img src="https://api.daily.dev/devcards/410f4158305645da97fdf3ac06fdca50.png?r=cgx" width="350" alt="Rasal Molla's   Dev Card"/></a>
 </div>
-<!--
+-->
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/LYBHgc2yiO07G3dkkQ/giphy.gif?cid=ecf05e47nvdaau0vi4cdcd8h4mc754esuqe8jxxalb7nxgw5&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
 </div>
--->
+
 
 <h1 align="center">Hi 👋, I'm Rasel Molla</h1>
 <h3 align="center">A Passionate Web Application Developer From Dhaka, Bangladesh</h3>
